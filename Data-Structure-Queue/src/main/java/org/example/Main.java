@@ -2,6 +2,10 @@ package org.example;
 
 import org.example.data_structure_queue.Queue;
 
+/**
+ *  Dynamic Structure
+ */
+
 public class Main {
     public static void main(String[] args) {
 
